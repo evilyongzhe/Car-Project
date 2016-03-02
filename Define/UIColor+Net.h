@@ -1,0 +1,13 @@
+//
+//  UIColor+Net.h
+//  煮酒论车
+//
+//  Created by 张羽 on 16/2/21.
+//  Copyright © 2016年 张羽. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface UIColor (Net)
++(UIColor *)getTopicColor;
+@end
